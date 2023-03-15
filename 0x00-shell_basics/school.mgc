@@ -1,2 +1,2 @@
 #!/bin/bash
-type -afpt file SCHOOL
+type -afptP file SCHOOL
