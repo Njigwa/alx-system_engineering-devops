@@ -1,2 +1,2 @@
-#!/bin/bash
-type [-afptP] file [SCHOOL]
+0	string SCHOOL school data
+!:mime text/school
