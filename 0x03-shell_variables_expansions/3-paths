@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((echo $PATH | greap -o -d | wc -l))
+echo $((echo $PATH | grep -o -d | wc -l))
